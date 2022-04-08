@@ -1,14 +1,11 @@
-## Hi there, I am Jianbai Ye 👋
-
 [![gusye1234's github stats](https://github-readme-stats.vercel.app/api?username=gusye1234)](https://github.com/anuraghazra/github-readme-stats)
 
-Currently a Master student in China, fancy about anything interesting and challenging on:
-* Python
-* Machine Learning
-* Cloud Native
+Hi there, I am Jianbai Ye 👋, currently a Master student in China and fancy about anything interesting and challenging on:  
+- 🐍 Python  
+- 🤖 Machine Learning  
+- 📦 Cloud Native  
 
 <!--
-**ForeverFancy/ForeverFancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
