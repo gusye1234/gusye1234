@@ -1,6 +1,6 @@
 [![gusye1234's github stats](https://github-readme-stats.vercel.app/api?username=gusye1234)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi there, I am Jianbai Ye 👋, currently a Master student in China and fancy about anything interesting and challenging on:  
+Hi there, I am Jianbai Ye 👋, currently a master student in China and fancy about anything interesting and challenging on:  
 - 🐍 Python  
 - 🤖 Machine Learning  
 - 📦 Cloud Native  
