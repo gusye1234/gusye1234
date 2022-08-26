@@ -3,7 +3,7 @@
 Hi there, I am Jianbai Ye 👋, an open-source enthusiast and active maintainer, like anything interesting and challenging on:  
 - 🐍 Python  
 - 🤖 Machine Learning  
-- 📦 Webassembly
+- 📦 WebAssembly
 - 𐄳 Decentralization
 
 <!--
