@@ -1,10 +1,10 @@
 [![gusye1234's github stats](https://github-readme-stats.vercel.app/api?username=gusye1234)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi there, I am Jianbai Ye 👋, an open-source enthusiast and active maintainer, like anything interesting and challenging on:  
+Hi there, I am Jianbai Ye 👋, an open-source enthusiast and active coder, enjoying anything interesting and challenging about:  
 - 🐍 Python  
 - 🤖 Machine Learning  
 - 📦 WebAssembly
-- 𐄳 Decentralization
+- 🕸 Decentralization
 
 <!--
 
