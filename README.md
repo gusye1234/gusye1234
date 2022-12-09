@@ -1,28 +1,14 @@
-[![gusye1234's github stats](https://github-readme-stats.vercel.app/api?username=gusye1234)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![gusye1234's github stats](https://github-readme-stats.vercel.app/api?username=gusye1234)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Hi there, I am Jianbai Ye 👋, an open-source enthusiast and active coder, enjoying anything interesting and challenging about:  
-- 🐍 Python  
-- 🤖 Machine Learning  
-- 📦 WebAssembly
-- 🕸 Decentralization
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Gustavo,;)](https://git.io/typing-svg)   -->
 
-<!--
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gusye1234">
+</p> -->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there👋,+I'm+Gustavo;"></p>
+<p align="center">🐍 Python | 🤖 Machine Learning | 📦 WebAssembly | 🕸 Web3    </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-**Topics that you can find me interested in**  
-
-
+<div align="center">
 <code><a href="https://github.com/topics/cpp"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a></code>
 <code><a href="https://github.com/topics/python"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href=https://github.com/topics/rust><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></a></code>
@@ -30,5 +16,5 @@ Here are some ideas to get you started:
 <code><a href="https://github.com/WebAssembly"><img height="20" src="https://avatars.githubusercontent.com/u/11578470?s=200&v=4"></a></code>
 <code><a href="https://pytorch.org/"><img height="20" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></a></code>
 <code><a href="https://github.com/topics/linux"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></a></code>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Hope+you+have+a+nice+day;)](https://git.io/typing-svg)
