@@ -5,7 +5,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gusye1234">
 </p> -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there👋,+I'm+Gustavo;"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there👋,+this+is+Gustavo.;"></p>
 <p align="center">🐍 Python | 🤖 Machine Learning | 📦 WebAssembly | 🕸 Web3    </p>
 
 <div align="center">
