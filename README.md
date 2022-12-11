@@ -6,12 +6,12 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there👋,+this+is+Gustavo.;"></p>
 <p align="center">
-  <code><a href="https://github.com/topics/python"><img height="20"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code> 
-  Python internal, 
-  <code><a href="https://pytorch.org/"><img height="20" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></a></code> 
+  <code><a href="https://github.com/topics/python"><img height="20"   src="./assets/python.svg"></a></code>
+  Python internal,
+  <code><a href="https://pytorch.org/"><img height="20" src="./assets/pytorch.svg"></a></code>
   Machine Learning,
-  <code><a href="https://github.com/WebAssembly"><img height="20" src="https://avatars.githubusercontent.com/u/11578470?s=200&v=4"></a></code>      
+  <code><a href="https://github.com/WebAssembly"><img height="20" src="https://avatars.githubusercontent.com/u/11578470?s=200&v=4"></a></code>
   WebAssembly,
-  <code><a href="https://github.com/topics/ethereum"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></a></code> 
-  Web3    
+  <code><a href="https://github.com/topics/ethereum"><img height="20" src="./assets/ethereum.svg"></a></code>
+  Web3
 </p>
