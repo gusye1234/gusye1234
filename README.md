@@ -10,8 +10,9 @@
   Python internals,
   <a href="https://pytorch.org/"><img height="20" src="./assets/pytorch.svg"></a>
   Machine Learning,
-  <a href="https://github.com/WebAssembly"><img height="20" src="https://avatars.githubusercontent.com/u/11578470?s=200&v=4"></a>
+  
+<!--   <a href="https://github.com/WebAssembly"><img height="20" src="https://avatars.githubusercontent.com/u/11578470?s=200&v=4"></a>
   WebAssembly,
   <a href="https://github.com/topics/ethereum"><img height="20" src="./assets/ethereum.svg"></a>
-  Web3
+  Web3 -->
 </p>
