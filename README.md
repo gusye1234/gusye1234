@@ -2,13 +2,13 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=做+点+有+用+的;"></p>
 
 ## 坚白 Gustavo 
-- 📌 Beijing
-- 👀 Large Language Model, Retrieve Augmented Generation(RAG)
-- 🏃 Plan to start a project about adding **Memory/State** Layer for LLM
-- 🏫 中国科学技术大学(USTC)
-- 🏢 MSRA/Tencent/IDEA -> 沐言智语
-- 🍠 小红书@坚白Gustavo
-- 📧 `jianbaiye AT outlook DOT com`
+📌 Beijing  
+👀 Large Language Model, Retrieve Augmented Generation(RAG)  
+🏃 Plan to start a project about adding **Memory/State** Layer for LLM  
+🏫 中国科学技术大学(USTC)  
+🏢 MSRA/Tencent/IDEA -> 沐言智语  
+🍠 小红书@坚白Gustavo  
+📧 `jianbaiye AT outlook DOT com`  
 
 ### Contact me if ...
 - You're interested in Open-Source and don't know how to start. 你对开源项目很感兴趣，但是不知道怎么开始。
