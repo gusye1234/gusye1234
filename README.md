@@ -7,8 +7,8 @@
 🏃 Plan to start a project about adding **Memory/State** Layer for LLM  
 🏫 中国科学技术大学(USTC)  
 🏢 MSRA/Tencent/IDEA -> 沐言智语  
-🍠 小红书@坚白Gustavo  
-📧 `jianbaiye AT outlook DOT com`  
+🍠 小红书@坚白Gustavo, 我会定期分享RAG和LLM相关的一些projects  
+📧 `jianbaiye AT outlook DOT com`, see next section.
 
 ### Contact me if ...
 - You're interested in Open-Source and don't know how to start. 你对开源项目很感兴趣，但是不知道怎么开始。
