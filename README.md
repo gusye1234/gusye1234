@@ -10,7 +10,7 @@
 - 🍠 小红书@坚白Gustavo
 - 📧 `jianbaiye AT outlook DOT com`
 
-### Please have a talk with me if...
+### Contact me if ...
 - You're interested in Open-Source and don't know how to start. 你对开源项目很感兴趣，但是不知道怎么开始。
 - You're interested in LLM-native Applications. 你对LLM原生应用很感兴趣。
 - You're interested in better RAG. 你对更好的RAG应用感兴趣。
