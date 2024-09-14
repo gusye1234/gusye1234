@@ -1,5 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Make+something+people+want;"></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=做+点+有+用+的;"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=I+build+stuff+that+may+be+useful;"></p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/gusye1234_github/count.svg" width="128">
 </p>
