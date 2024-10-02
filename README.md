@@ -12,8 +12,8 @@
 
 ### Contact
 🍠 小红书@坚白Gustavo, 我会定期分享RAG和LLM相关的一些projects  
-🐦 𝕏@[坚白Gustavo](https://x.com/GUS10551962), 随机想法   
-📧 `jianbaiye AT outlook DOT com`, see next section.
+🐦 𝕏@[坚白Gustavo](https://x.com/jianbaiye), 随机想法   
+📧 `jianbaiye AT outlook DOT com`
 
 ### Contact me if ...
 - You're interested in Open-Source and don't know how to start. 你对开源项目很感兴趣，但是不知道怎么开始。
