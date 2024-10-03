@@ -12,7 +12,7 @@
 
 ### Contact
 🍠 小红书@坚白Gustavo, 我会定期分享RAG和LLM相关的一些projects  
-🐦 𝕏@[坚白Gustavo](https://x.com/jianbaiye), 随机想法   
+🐦 𝕏@[坚白Gustavo](https://x.com/gusye1234), 随机想法   
 📧 `jianbaiye AT outlook DOT com`
 
 ### Contact me if ...
