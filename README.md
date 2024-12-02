@@ -8,7 +8,7 @@
 👀 Large Language Model, Retrieve Augmented Generation(RAG)  
 🏃 Plan to start a project about adding **Memory/State** Layer for LLM  
 🏫 中国科学技术大学(USTC)  
-🏢 MSRA/Tencent/IDEA -> 沐言智语  
+🏢 MSRA/Tencent/IDEA/沐言智语 -> memodb.io
 
 ### Contact
 🍠 小红书@坚白Gustavo, 我会定期分享RAG和LLM相关的一些projects  
