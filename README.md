@@ -4,6 +4,8 @@
 </p>
 
 ## 坚白 Gustavo 
+Building [Memobase](https://github.com/memodb-io/memobase), a user profile-based memory backend.
+
 📌 Beijing  
 👀 Large Language Model, Retrieve Augmented Generation(RAG)  
 🏃 Plan to start a project about adding **Memory/State** Layer for LLM  
